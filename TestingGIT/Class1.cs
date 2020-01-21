@@ -8,6 +8,7 @@ namespace TestingGIT
         {
             Console.WriteLine("I am Hardik.");
             Console.WriteLine("New Changes done by branch member");
+            Console.WriteLine("New Changes done by Master");
         }
     }
 }
